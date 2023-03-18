@@ -11,9 +11,6 @@ Alham Akram
 Aditya Pareek
 Bikram Mohanty
 
-[LIVE PREVIEW](http://buckymaler.com/global)
+[LIVE PREVIEW]
 
-## Misc:
 
-* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
-* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
